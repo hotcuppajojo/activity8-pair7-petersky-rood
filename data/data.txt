@@ -1,0 +1,12 @@
+Untracked Files: These are files that Git has not seen before. They are new files that have been created in the repository but have not yet been added to Git's tracking system.
+
+Modified Files: These are files that have been changed since the last commit. Git tracks these changes and will include them in the next commit if they are staged.
+
+Staged Files: These are files that have been added to Git's staging area. They are ready to be committed. Staging allows you to selectively add and commit changes.
+
+Committed Files: These are files that have been securely stored in a Git repository. The changes made to these files are saved and can be revisited at any time.
+
+Merge Conflicts: These occur when Git is unable to automatically combine changes from different commits. They require manual intervention to resolve.
+
+Ignored Files: These are files that Git has been instructed to ignore. Changes to these files are not tracked. This is typically used for log files, temporary files, or other non-source code files.
+
